@@ -2,3 +2,13 @@
   margin-top: 12%;
   text-align: center;
 }
+
+.social {
+  display: block;
+  margin: 0 auto;
+}
+
+.social a {
+  color: #000;
+  padding: 10px;
+}
